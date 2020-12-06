@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://alex123:alex123@dev-social-media-cluste.x6tcc.mongodb.net/dev-social-media?retryWrites=true&w=majority",
+  "jwtSecret": "secret-token-thingy",
+  "githubClientID": "a23e7ec98984b4cabee0",
+  "githubSecret": "36bfc7cd5bab03b0274c61f90ad23571f46e6a5c"
+}
